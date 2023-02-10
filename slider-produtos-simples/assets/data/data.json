@@ -15,10 +15,10 @@
     },
     {
         "id": 3,
-        "name": "Console Xbox Series S 500gb Ssd",
+        "name": "Bruninho",
         "price": 2276.10,
         "rating": 5,
-        "image": "https://github.com/BrunoGCSousa/squad-21/blob/b932b5393a45dbe79c1702669fd14ee74675ca10/img/profile-pic.jpg?raw=true"
+        "image": "https://raw.githubusercontent.com/BrunoGCSousa/squad-21/main/img/profile-pic.jpg"
     },
     {
         "id": 4,
