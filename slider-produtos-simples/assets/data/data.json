@@ -1,14 +1,14 @@
 [
     {
         "id": 1,
-        "name": "Kit 5 Camisetas Masculinas Básicas Manga Curta",
+        "name": "Juninho",
         "price": 42.49,
         "rating": 4,
         "image": "https://media.istockphoto.com/id/1309328823/photo/headshot-portrait-of-smiling-male-employee-in-office.jpg?b=1&s=170667a&w=0&k=20&c=MRMqc79PuLmQfxJ99fTfGqHL07EDHqHLWg0Tb4rPXQc="
     },
     {
         "id": 2,
-        "name": "Nutella pote especial 350G ferrero",
+        "name": "Serginho",
         "price": 19.99,
         "rating": 5,
         "image": "https://media.istockphoto.com/id/1300972574/photo/millennial-male-team-leader-organize-virtual-workshop-with-employees-online.jpg?b=1&s=170667a&w=0&k=20&c=96pCQon1xF3_onEkkckNg4cC9SCbshMvx0CfKl2ZiYs="
@@ -18,7 +18,7 @@
         "name": "Console Xbox Series S 500gb Ssd",
         "price": 2276.10,
         "rating": 5,
-        "image": "https://github.com/BrunoGCSousa/squad-21/blob/b932b5393a45dbe79c1702669fd14ee74675ca10/img/profile-pic.jpg"
+        "image": "https://github.com/BrunoGCSousa/squad-21/blob/b932b5393a45dbe79c1702669fd14ee74675ca10/img/profile-pic.jpg?raw=true"
     },
     {
         "id": 4,

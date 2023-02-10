@@ -46,7 +46,7 @@ fetch(
             <img class="product"
                 src="${el.image}" alt="Foto do produto - ${el.name}" />
             <h4 class="title" title="${el.name}">${el.name}</h4>
-            <a class="button">Adicionar ao Carrinho</a>
+            <a class="button">Saiba mais</a>
         </div>
       `
       );
