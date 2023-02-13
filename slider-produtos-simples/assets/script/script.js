@@ -43,9 +43,12 @@ fetch(
         `
         <div class="card">
 
-            <img class="product"
+            <img class="usuario"
                 src="${el.image}" alt="Foto do produto - ${el.name}" />
             <h4 class="title" title="${el.name}">${el.name}</h4>
+            <h3>${el.profissao} </h3>
+            <p>Pretensão Salarial: ${el.pSalarial}</p>
+            <p>Preferência: ${el.mTrabalho}</p>
             <a class="button">Saiba mais</a>
         </div>
       `
