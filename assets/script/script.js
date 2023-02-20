@@ -33,7 +33,7 @@ $(document).ready(function () {
 });
 
 fetch(
-  "https://raw.githubusercontent.com/BrunoGCSousa/squad-21/main/slider-produtos-simples/assets/data/data.json"
+  "https://raw.githubusercontent.com/BrunoGCSousa/squad-21/main/assets/data/data.json"
 )
   .then((response) => response.json())
   .then((data) => {
